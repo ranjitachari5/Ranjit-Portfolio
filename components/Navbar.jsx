@@ -37,7 +37,10 @@ const Navbar = () => {
         >
           <HiOutlineMail className="w-6 hover:scale-110 h-6" />
         </a>
-      <Link className="ml-10 " to="/">Ranjit Kumar A</Link>
+      <Link className="ml-10 flex items-center gap-2" to="/">
+        <img src="/logo.png" alt="Logo" className="h-8 w-8 object-contain" />
+        Ranjit Kumar A
+      </Link>
       </p>
     </div>
   );
