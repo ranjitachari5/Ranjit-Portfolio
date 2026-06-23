@@ -16,7 +16,7 @@ const Homepage = () => {
           </div>
           <img
             className="h-48 sm:h-64 md:h-72 lg:h-96 w-auto shrink-0 md:ml-10"
-            src="./assets/ranjit3.png"
+            src="/assets/ranjit3.png"
             alt="Ranjit"
           />
         </div>
