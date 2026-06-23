@@ -1,4 +1,5 @@
 import 'tailwindcss'
+import ranjit3 from '../assets/ranjit3.png'
 import { FaGithub, FaPython, FaReact, FaCss3Alt } from 'react-icons/fa'
 import { SiGit, SiNumpy, SiHtml5, SiJavascript, SiTailwindcss, SiMysql } from 'react-icons/si'
 const Homepage = () => {
@@ -16,7 +17,7 @@ const Homepage = () => {
           </div>
           <img
             className="h-48 sm:h-64 md:h-72 lg:h-96 w-auto shrink-0 md:ml-10"
-            src="/ranjit3.png"
+            src={ranjit3}
             alt="Ranjit"
           />
         </div>
