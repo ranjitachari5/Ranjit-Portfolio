@@ -20,7 +20,7 @@ function About() {
             <div className="shrink-0 w-full md:w-2/5 flex justify-center md:justify-start">
               <img
                 className="h-72 sm:h-80 md:h-105 lg:h-120 w-auto object-cover"
-                src="./assets/ranjit1.png"
+                src="/ranjit1.png"
                 alt="Ranjit"
               />
             </div>

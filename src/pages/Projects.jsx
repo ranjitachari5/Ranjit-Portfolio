@@ -4,32 +4,32 @@ function Projects() {
   const projects = [
     {
       title: "AI Flashcard Generator",
-      image: "/assets/AI-flash.png",
+      image: "/AI-flash.png",
       github: "https://github.com/ranjitachari5/ai_flashcard",
     },
     {
       title: "Portfolio Website",
-      image: "/assets/portfolio.png",
+      image: "/portfolio.png",
       github: "https://github.com/ranjitachari5/Ranjit-Portfolio",
     },
     {
       title: "GPA Calculator using PyQt5",
-      image: "/assets/gpa-calculator.png",
+      image: "/gpa-calculator.png",
       github: "https://github.com/ranjitachari5/gpa_calculator_using_python",
     },
     {
       title: "Simple Calculator Using PyQt5",
-      image: "/assets/calculator.png",
+      image: "/calculator.png",
       github: "https://github.com/ranjitachari5/simple_calculator",
     },
     {
       title: "Real Estate Website",
-      image: "/assets/realestate.png",
+      image: "/realestate.png",
       github: "https://github.com/ranjitachari5/Sri-Venkateshwara-Enclave",
     },
     {
       title: "Interior Designers website",
-      image: "/assets/interior_design.png",
+      image: "/interior_design.png",
       github: "https://github.com/ranjitachari5/Interior_designing_website.git",
     }
     
