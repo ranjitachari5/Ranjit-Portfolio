@@ -1,8 +1,6 @@
 ﻿import Wave from "../components/Wave";
 import aiFlash from '../../assets/AI-flash.png'
-import portfolioImg from '../../assets/portfolio.png'
 import gpaCalculator from '../../assets/gpa-calculator.png'
-import calculatorImg from '../../assets/calculator.png'
 import realEstate from '../../assets/realestate.png'
 import interiorDesign from '../../assets/interior_design.png'
 
@@ -13,21 +11,13 @@ function Projects() {
       image: aiFlash,
       github: "https://github.com/ranjitachari5/ai_flashcard",
     },
-    {
-      title: "Portfolio Website",
-      image: portfolioImg,
-      github: "https://github.com/ranjitachari5/Ranjit-Portfolio",
-    },
+    
     {
       title: "GPA Calculator using PyQt5",
       image: gpaCalculator,
       github: "https://github.com/ranjitachari5/gpa_calculator_using_python",
     },
-    {
-      title: "Simple Calculator Using PyQt5",
-      image: calculatorImg,
-      github: "https://github.com/ranjitachari5/simple_calculator",
-    },
+  
     {
       title: "Real Estate Website",
       image: realEstate,
