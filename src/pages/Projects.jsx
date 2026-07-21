@@ -13,7 +13,7 @@ function Projects() {
     },
     
     {
-      title: "GPA Calculator using PyQt5",
+      title: "GPA Calculator using PyQt5(First Project)",
       image: gpaCalculator,
       github: "https://github.com/ranjitachari5/gpa_calculator_using_python",
     },
