@@ -11,7 +11,7 @@ const Navbar = () => {
         <ul className="flex flex-wrap justify-center gap-3 sm:gap-5 text-sm sm:text-base">
           <li className="hover:underline decoration-amber-500"><Link to="/" >Home</Link></li>
           <li className="hover:underline decoration-amber-500"><Link to="/projects" >Projects</Link></li>
-          <li className="hover:underline decoration-amber-500"><a href="/Ranjit_resume.pdf" download="Ranjit_resume.pdf">Resume</a></li>
+          <li className="hover:underline decoration-amber-500"><a href="/ranjit_final_resume.pdf" download="Ranjit_resume.pdf">Resume</a></li>
           <li className="hover:underline decoration-amber-500"><Link to="/about" >About</Link></li>
           <li className="hover:underline decoration-amber-500"><Link to="/contact" >Contact</Link></li>
         </ul>
