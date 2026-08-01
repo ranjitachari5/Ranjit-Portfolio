@@ -1,7 +1,7 @@
 import 'tailwindcss'
 import ranjit3 from '../assets/ranjit3.png'
 import { FaGithub, FaPython, FaReact, FaCss3Alt } from 'react-icons/fa'
-import { SiGit, SiNumpy, SiHtml5, SiJavascript, SiTailwindcss, SiMysql } from 'react-icons/si'
+import { SiGit, SiNumpy, SiHtml5, SiJavascript, SiTailwindcss, SiMysql,SiFastapi } from 'react-icons/si'
 const Homepage = () => {
   return (
     <>
@@ -71,6 +71,10 @@ const Homepage = () => {
 
               <span className="w-12 h-12 rounded-full flex items-center justify-center border border-gray-300 hover:scale-110 transition" title="React">
                 <FaReact className="w-6 h-6" />
+              </span>
+        
+              <span className="w-12 h-12 rounded-full flex items-center justify-center border border-gray-300 hover:scale-110 transition" title="Fastapi">
+                <SiFastapi className="w-6 h-6" />
               </span>
 
               <span className="w-12 h-12 rounded-full flex items-center justify-center border border-gray-300 hover:scale-110 transition" title="Tailwind CSS">
