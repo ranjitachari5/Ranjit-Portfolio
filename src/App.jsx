@@ -5,6 +5,8 @@ import Navbar from "./components/Navbar";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Projects from "./pages/Projects";
+import Experience from "./pages/Experience";
+import Certifications from "./pages/Certifications";
 import PageTransition from "./components/PageTransition";
 
 // AnimatePresence must watch location changes, so routing lives in a child
@@ -35,6 +37,22 @@ const AnimatedRoutes = () => {
           element={
             <PageTransition>
               <Projects />
+            </PageTransition>
+          }
+        />
+        <Route
+          path="/experience"
+          element={
+            <PageTransition>
+              <Experience />
+            </PageTransition>
+          }
+        />
+        <Route
+          path="/certifications"
+          element={
+            <PageTransition>
+              <Certifications />
             </PageTransition>
           }
         />

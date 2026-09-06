@@ -29,25 +29,16 @@ function About() {
             {/* Text — right column */}
             <div className="w-full md:w-3/5 flex flex-col text-[#e0e3dc] gap-6">
               <p className="text-lg md:text-xl font-serif leading-relaxed text-justify">
-                Hello, I'm Ranjit, a Computer Science Engineering student passionate
-                about building modern digital experiences and exploring the
-                possibilities of artificial intelligence. I enjoy creating full-stack
-                applications, experimenting with AI-powered solutions, and learning
-                new technologies that help transform ideas into reality.
-              </p>
-
-              <p className="text-lg md:text-xl font-serif leading-relaxed  text-justify">
-                I believe that great software is a combination of clean code, thoughtful
-                design, and continuous improvement. Through personal projects and
-                hands-on learning, I strive to develop solutions that are efficient,
-                scalable, and visually appealing.
+                Computer Science and Engineering student with experience in Python,
+                C++, JavaScript, PHP, SQL, and front-end development. Interested in
+                software development, backend engineering, and building practical web
+                applications.
               </p>
 
               <p className="text-lg md:text-xl font-serif leading-relaxed text-justify">
-                When I'm not coding, I'm constantly exploring emerging technologies,
-                improving my problem-solving skills, and working toward becoming a
-                better software engineer. My journey is driven by curiosity, creativity,
-                and the desire to build technology that makes a meaningful impact.
+                I am currently studying at Rajarajeswari College of Engineering,
+                Bengaluru, where I am building a strong foundation in software
+                development through coursework, internships, and hands-on projects.
               </p>
             </div>
           </div>
